@@ -1,5 +1,5 @@
 body {
-  background-image: url('https://raw.githubusercontent.com/RyannNet/Gamer-Arcade/refs/heads/main/1500%20Sem%20T%C3%ADtulo_20250518140747.png');
+  background-image: url('/Gamer Arcade/1500 Sem Título_20250518140747.png');
   font-family: 'Cal Sans', sans-serif;
   text-align: center;
   color: #FFFFFF;
@@ -10,8 +10,8 @@ body {
 .container{
   background-image: linear-gradient(135deg, #040404, #23232394);
   backdrop-filter: blur(35px);
-  width: 95%;
-  height: 825px;
+  width: 520px;
+  height: 735px;
   margin-top: 25%;
   margin-left: auto;
   box-shadow: inset 0px 0px 25px #121212;
